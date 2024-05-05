@@ -1,0 +1,12 @@
+<Project>
+	<PropertyGroup>
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<GlobalPackageReference Include="FluentValidation" Version="11.9.1" />
+		<GlobalPackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		
+		
+	</ItemGroup>
+</Project>
